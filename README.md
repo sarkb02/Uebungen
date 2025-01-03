@@ -1,1 +1,1 @@
-Python Grundlagen und mehr? 
+Python Grundlagen
